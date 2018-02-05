@@ -1,0 +1,4 @@
+#Thu Feb 01 07:28:55 EAT 2018
+base.0=/home/jamal/firebase/firebase/201Tab/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
